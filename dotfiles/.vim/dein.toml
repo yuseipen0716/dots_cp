@@ -1,0 +1,57 @@
+# Required:
+[[plugins]]
+repo = 'Shougo/dein.vim'
+[[plugins]]
+repo = 'tpope/vim-endwise'
+# fuzzy finder
+[[plugins]]
+repo = 'ctrlpvim/ctrlp.vim'
+# github copilot
+[[plugins]]
+repo = 'github/copilot.vim'
+# vimでマークダウンをプレビューするためのプラグイン
+[[plugins]]
+repo = 'plasticboy/vim-markdown'
+
+# lightline
+[[plugins]]
+repo = 'itchyny/lightline.vim'
+# lightlineにgitブランチを載せる
+[[plugins]]
+repo = 'itchyny/vim-gitbranch'
+
+[[plugins]]
+repo = 'tpope/vim-fugitive'
+
+# vimfiler
+[[plugins]]
+repo = 'Shougo/vimfiler.vim'
+
+# colorscheme
+[[plugins]]
+repo = 'lifepillar/vim-solarized8'
+[[plugins]]
+repo = 'NLKNguyen/papercolor-theme'
+
+
+[[plugins]]
+repo = 'neoclide/coc-html'
+[[plugins]]
+repo = 'neoclide/coc-css'
+[[plugins]]
+repo = 'neoclide/coc-tsserver'
+[[plugins]]
+repo = 'neoclide/coc-json'
+[[plugins]]
+repo = 'neoclide/coc-python'
+[[plugins]]
+repo = 'neoclide/coc-yaml'
+[[plugins]]
+repo = 'neoclide/coc-go'
+[[plugins]]
+repo = 'neoclide/coc-lua'
+[[plugins]]
+repo = 'neoclide/coc-rust'
+[[plugins]]
+repo = 'neoclide/coc-phpls'
+
