@@ -46,12 +46,3 @@ repo = 'neoclide/coc-json'
 repo = 'neoclide/coc-python'
 [[plugins]]
 repo = 'neoclide/coc-yaml'
-[[plugins]]
-repo = 'neoclide/coc-go'
-[[plugins]]
-repo = 'neoclide/coc-lua'
-[[plugins]]
-repo = 'neoclide/coc-rust'
-[[plugins]]
-repo = 'neoclide/coc-phpls'
-
